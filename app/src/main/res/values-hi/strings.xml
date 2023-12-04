@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Win 98 Simulator</string>
+    <string name="how_to_use_the_mouse"><b>ट्यूटोरियल: माउस का उपयोग कैसे करें</b></string>
+    <string name="to_move_the_mouse">• माउस को स्थानांतरित करने के लिए, \n\n स्वाइप करें • बाएं क्लिक करने के लिए, वॉल्यूम बढ़ाने के बटन को दबाएं या टचस्क्रीन \n\n को टैप करें • राइट क्लिक करने के लिए, वॉल्यूम कम करने के बटन को दबाएं</string>
+    <string name="show_on_startup">स्टार्टअप पर दिखाओ</string>
+    <string name="got_it">समझ गया!</string>
+    <string name="only_eng_keyboard_is_supported">केवल अंग्रेजी कीबोर्ड का समर्थन किया!</string>
+    <string name="unable_to_rename">नाम बदलना केवल \'My Documents\' फ़ोल्डर में और डेस्कटॉप पर फ़ाइलों के लिए समर्थित है!</string>
+    <string name="unable_to_delete">विलोपन केवल \'My Documents\' फ़ोल्डर और डेस्कटॉप में फ़ाइलों के लिए समर्थित है</string>
+    <string name="wallpaper_no_files">Paint में एक वॉलपेपर बनाएं, या शीर्ष मेनू पर फ़ोल्डर बदलें</string>
+    <string name="mpc_no_files">शीर्ष मेनू पर फ़ोल्डर बदलें (या इंटरनेट एक्सप्लोरर से फ़ाइलें डाउनलोड करें)</string>
+    <string name="paint_tutorial">आकर्षित करने के लिए वॉल्यूम अप बटन दबाए रखें</string>
+    <string name="mpc_tutorial">\"File→Open\" पर क्लिक करें</string>
+    <string name="freecell_tutorial">खेलने के लिए, \"Game→New Game\" पर क्लिक करें</string>
+</resources>

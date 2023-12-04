@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Win 98 Simulator</string>
+    <string name="how_to_use_the_mouse"><b>Tutorial: How to use the mouse</b></string>
+    <string name="to_move_the_mouse">• To <b>move</b> the mouse, <b>swipe</b>\n\n• To <b>left-click the mouse</b>, press the <b>Volume Up button</b>\n\u0009or <b>tap the touchscreen</b>\n\n• To <b>right-click the mouse</b>, press the <b>Volume Down button</b></string>
+    <string name="show_on_startup">Show on startup</string>
+    <string name="got_it">Got it!</string>
+    <string name="only_eng_keyboard_is_supported">Only English keyboard supported!</string>
+    <string name="unable_to_delete">Deletion is only supported for files in \'My Documents\' folder and on the Desktop</string>
+    <string name="unable_to_rename">Renaming is only supported for files in \'My Documents\' folder and on the Desktop!</string>
+    <string name="mpc_no_files">Change folder on the top menu (or download files from Internet Explorer)</string>
+    <string name="paint_tutorial">Hold down the volume up button to draw</string>
+    <string name="mpc_tutorial">Click File→Open</string>
+    <string name="freecell_tutorial">To play, click Game→New Game</string>
+    <string name="wallpaper_no_files">Draw a wallpaper in Paint, or change folder on the top menu</string>
+</resources>

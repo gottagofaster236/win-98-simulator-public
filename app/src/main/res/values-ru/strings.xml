@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Win 98 Simulator</string>
+    <string name="how_to_use_the_mouse"><b>Туториал: как пользоваться мышью</b></string>
+    <string name="to_move_the_mouse">"• Чтобы <b>двигать</b> курсор, <b>проведите по экрану</b>\n\n• Чтобы кликнуть <b>левой кнопкой мыши</b>,\nнажмите кнопку <b>увеличения громкости</b> или <b>тапните по экрану</b>\n\n• Для клика <b>правой кнопкой мыши</b>,\nнажмите кнопку <b>уменьшения громкости</b>"</string>
+    <string name="show_on_startup">Показывать при запуске</string>
+    <string name="got_it">Ясно!</string>
+    <string name="only_eng_keyboard_is_supported">Поддерживается только английская клавиатура!</string>
+    <string name="unable_to_rename">Переименование поддерживается только для файлов в папке My Documents и на рабочем столе!</string>
+    <string name="unable_to_delete">Удаление поддерживается только для файлов в папке \"My Documents\"!</string>
+    <string name="wallpaper_no_files">Нарисуйте обои в Paint или смените папку в верхнем меню</string>
+    <string name="mpc_no_files">Cмените папку в верхнем меню (или загрузите файлы из Internet Explorer)</string>
+    <string name="paint_tutorial">Удерживайте кнопку увеличения громкости, чтобы рисовать</string>
+    <string name="mpc_tutorial">Нажмите File→Open</string>
+    <string name="freecell_tutorial">Чтобы играть, нажмите Game→New Game</string>
+</resources>

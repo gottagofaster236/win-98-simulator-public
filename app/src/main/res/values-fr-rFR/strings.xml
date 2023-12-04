@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Win 98 Simulator</string>
+    <string name="how_to_use_the_mouse"><b>Tutoriel: Comment utiliser la souris</b></string>
+    <string name="to_move_the_mouse">• Pour déplacer la souris, glissez \n \n • Pour faire un clic gauche, appuyez sur le bouton d\'augmentation du volume ou appuyez sur l\'écran tactile \n \n • Pour faire un clic droit, appuyez sur le bouton de diminution du volume.</string>
+    <string name="show_on_startup">Afficher au démarrage</string>
+    <string name="got_it">Je l\'ai!</string>
+    <string name="only_eng_keyboard_is_supported">Seul clavier anglais pris en charge!</string>
+    <string name="unable_to_rename">Le changement de nom n\'est pris en charge que pour les fichiers du dossier «My Documents» et sur le bureau!</string>
+    <string name="unable_to_delete">La suppression n\'est prise en charge que pour les fichiers du dossier \'My Documents\' et du bureau</string>
+    <string name="wallpaper_no_files">Dessinez un fond d\'écran dans Paint ou changez de dossier dans le menu supérieur</string>
+    <string name="mpc_no_files">Changer de dossier dans le menu supérieur (ou télécharger des fichiers depuis Internet Explorer)</string>
+    <string name="paint_tutorial">Maintenez le bouton d\'augmentation du volume enfoncé pour dessiner</string>
+    <string name="mpc_tutorial">Cliquez sur \"File→Open\"</string>
+    <string name="freecell_tutorial">Pour jouer, cliquez sur \"Game→New Game\"</string>
+</resources>

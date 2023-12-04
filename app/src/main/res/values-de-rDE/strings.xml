@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Win 98 Simulator</string>
+    <string name="how_to_use_the_mouse"><b>Tutorial: So verwenden Sie die Maus</b></string>
+    <string name="to_move_the_mouse">• Wischen Sie zum Bewegen der Maus\n\n• Um einen Linksklick auszuführen, drücken Sie die Taste Lauter oder tippen Sie auf den Touchscreen\n\n• Um einen Rechtsklick auszuführen, drücken Sie die Taste Lautstärke verringern.</string>
+    <string name="show_on_startup">Beim Start anzeigen</string>
+    <string name="got_it">Ich hab\'s!</string>
+    <string name="only_eng_keyboard_is_supported">Nur englische Tastatur unterstützt!</string>
+    <string name="unable_to_rename">Das Umbenennen wird nur für Dateien im Ordner \'My Documents\' und auf dem Desktop unterstützt!</string>
+    <string name="unable_to_delete">Das Löschen wird nur für Dateien im Ordner \'My Documents\' und auf dem Desktop unterstützt</string>
+    <string name="wallpaper_no_files">Zeichnen Sie ein Hintergrundbild in Paint oder ändern Sie den Ordner im oberen Menü</string>
+    <string name="mpc_no_files">Ändern Sie den Ordner im oberen Menü (oder laden Sie Dateien aus dem Internet Explorer herunter).</string>
+    <string name="paint_tutorial">Halten Sie die Lauter-Taste gedrückt, um zu zeichnen</string>
+    <string name="mpc_tutorial">Klicken Sie auf \"File→Open\"</string>
+    <string name="freecell_tutorial">Zum Spielen auf \"Game→New Game\" klicken</string>
+</resources>

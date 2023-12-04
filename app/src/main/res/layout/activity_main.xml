@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/root_view"
+    android:orientation="vertical"
+    android:background="#E1E1E1"
+    android:gravity="center"
+    >
+
+    <RelativeLayout
+        android:background="#FFFFFF"
+        android:id="@+id/windowsViewGroup"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <com.lr_soft.windows98simulator.WindowsView
+            android:id="@+id/windowsView"
+            android:visibility="visible"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:background="#00000000"
+            />
+    </RelativeLayout>
+
+    <ScrollView
+        android:visibility="gone"
+        android:id="@+id/tutorial"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/how_to_use_the_mouse"
+                android:textColor="#222222"
+                android:textSize="22sp" />
+
+            <TextView
+                android:id="@+id/tView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="18dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:text="@string/to_move_the_mouse"
+                android:textColor="#222222"
+                android:textSize="18sp" />
+
+            <LinearLayout
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center">
+
+                <CheckBox
+                    android:id="@+id/checkBox"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    />
+
+                <TextView
+                    android:layout_marginStart="5dp"
+                    android:layout_marginLeft="5dp"
+                    android:id="@+id/tView3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/show_on_startup"
+                    android:textColor="#222222"
+                    android:textSize="18sp"
+                    android:onClick="onCheckboxClick"
+                    />
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/button"
+                style="@android:style/Theme.Black"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:minWidth="90dp"
+                android:layout_marginTop="0dp"
+                android:onClick="onTutorialEndClick"
+                android:text="@string/got_it" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

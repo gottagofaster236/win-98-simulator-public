@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Win 98 Simulator</string>
+    <string name="how_to_use_the_mouse"><b>Öğretici: Fare nasıl kullanılır?</b></string>
+    <string name="to_move_the_mouse">• Fareyi hareket ettirmek için, kaydırın \n \n • Sol tıklamak için Ses artırma düğmesine basın veya dokunmatik ekrana dokunun \n \n • Sağ tıklamak için Ses azaltma düğmesine basın</string>
+    <string name="show_on_startup">Başlangıçta göster</string>
+    <string name="got_it">Anladım!</string>
+    <string name="only_eng_keyboard_is_supported">Sadece İngilizce klavye desteklenir!</string>
+    <string name="unable_to_rename">Yeniden adlandırma yalnızca \'My Documents\' klasöründeki ve Masaüstündeki dosyalar için desteklenir!</string>
+    <string name="unable_to_delete">Silme yalnızca \'My Documents\' klasöründeki ve Masaüstündeki dosyalar için desteklenir</string>
+    <string name="wallpaper_no_files">Paint\'de duvar kağıdı çizin veya üst menüdeki diski değiştirin</string>
+    <string name="mpc_no_files">Üst menüdeki klasörü değiştirin (veya Internet Explorer\'dan dosya indirin)</string>
+    <string name="paint_tutorial">Çizmek için ses açma düğmesini basılı tutun</string>
+    <string name="mpc_tutorial">\"File→Open\" düğmesini tıklayın</string>
+    <string name="freecell_tutorial">Oynatmak için \"Game→New Game\" düğmesini tıklayın</string>
+</resources>

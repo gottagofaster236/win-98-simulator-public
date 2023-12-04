@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Win 98 Simulator</string>
+    <string name="how_to_use_the_mouse"><b>Samouczek: Jak korzystać z myszy</b></string>
+    <string name="to_move_the_mouse">• Aby przesunąć mysz, przesuń palcem \n \n • Aby kliknąć lewym przyciskiem myszy, naciśnij przycisk Zwiększanie głośności lub dotknij ekranu dotykowego \n \n • Aby kliknąć prawym przyciskiem myszy, naciśnij przycisk zmniejszania głośności</string>
+    <string name="show_on_startup">Pokaż przy starcie</string>
+    <string name="got_it">Rozumiem!</string>
+    <string name="only_eng_keyboard_is_supported">Obsługa tylko angielskiej klawiatury!</string>
+    <string name="unable_to_rename">Zmiana nazwy jest obsługiwana tylko dla plików w folderze „My Documents” i na pulpicie!</string>
+    <string name="unable_to_delete">Usuwanie jest obsługiwane tylko dla plików w folderze „My Documents” i na pulpicie</string>
+    <string name="wallpaper_no_files">Narysuj tapetę w Paint lub zmień folder w górnym menu</string>
+    <string name="mpc_no_files">Zmień folder w górnym menu (lub pobierz pliki z Internet Explorera)</string>
+    <string name="paint_tutorial">Przytrzymaj przycisk zwiększania głośności, aby rysować</string>
+    <string name="mpc_tutorial">Kliknij „File→Open”</string>
+    <string name="freecell_tutorial">Aby zagrać, kliknij „Game→New Game”</string>
+</resources>
